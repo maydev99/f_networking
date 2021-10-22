@@ -9,7 +9,7 @@ https://api.chucknorris.io/
 
 Description: Tap a button a receive a Chuck Norris Joke from the internet.
 
-* Tech Stack:
+### Tech Stack:
 * Dart
 * Flutter
 * Nio
